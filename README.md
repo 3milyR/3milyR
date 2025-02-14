@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **3milyR/3milyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Emily 👋  
+
+![Emily Rupp Banner](https://raw.githubusercontent.com/3milyR/3milyR/main/banner.png)
+
+I'm an analytics professional, strategist, and problem-solver with a background in SaaS, retail, and creative industries.   
+
+## 🚀 About Me  
+- 🎓 **MSBA** @ Carnegie Mellon (Graduating May 2025)  
+- 📊 Data & Business Analytics | Operations | Strategy  
+- 💡 Interested in Data Science and emerging technologies — including Quantum Computing, Brain-Computer Interfaces, Autonomous Vehicles, and the expanding role of Diamonds as Semiconductors — shaping the future.  
+
+## 🔧 Skills  
+- **Programming:** Python, SQL, R  
+- **Tools:** Tableau, Looker, VS Code, Jupyter Notebooks, R Studio, Google Sheets, Excel, Tableau Prep, Alteryx  
+- **Presentations:** Designing clear, engaging, and visually compelling presentations for both technical and non-technical audiences.  
+- **Business Analytics:** Forecasting, Data Visualization, Optimization  
+
+## 📫 Connect With Me  
+- [LinkedIn](https://linkedin.com/in/emilyrupp)  
+- [Personal Website](https://emilyrupp.work)  
+- [Tableau Public](https://public.tableau.com/app/profile/3milyr/vizzes)  
