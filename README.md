@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Emily 👋  
-
-![Emily Rupp Banner](https://raw.githubusercontent.com/3milyR/3milyR/main/banner.png)
+![Emily Rupp Banner](https://raw.githubusercontent.com/3milyR/3milyR/main/github_banner.png)
 
 I'm an analytics professional, strategist, and problem-solver with a background in SaaS, retail, and creative industries.   
 
