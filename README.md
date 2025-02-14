@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 ![Emily Rupp Banner](https://raw.githubusercontent.com/3milyR/3milyR/main/github_banner3.png)
 
-I'm an analytics professional, strategist, and problem-solver with a background in SaaS, retail, and creative industries.   
-
 ## 🚀 About Me  
+
+I'm an operations analytics professional, strategist, and problem-solver with a background in SaaS, retail, and creative industries.   
+
 - 🎓 **MSBA** @ Carnegie Mellon (Graduating May 2025)  
 - 📊 Data & Business Analytics | Operations | Strategy  
 - 💡 Interested in Data Science and emerging technologies — including Quantum Computing, Brain-Computer Interfaces, Autonomous Vehicles, and the expanding role of Diamonds as Semiconductors — shaping the future.  
