@@ -20,7 +20,7 @@ I'm an operations analytics professional, strategist, and problem-solver with a 
 
 - 🎓 **MSBA** @ Carnegie Mellon (Graduating May 2025)  
 - 📊 Data & Business Analytics | Operations | Strategy  
-- 💡 Interested in Data Science and emerging technologies — including Quantum Computing, Brain-Computer Interfaces, Autonomous Vehicles, and the expanding role of Diamonds as Semiconductors — shaping the future.  
+- 💡 Interested in Data Science and emerging technologies shaping the future — like Brain-Computer Interfaces, Autonomous Vehicles, the expanding role of Diamonds as Semiconductors, and Quantum Computing (probably). 
 
 ## 🔧 Skills  
 - **Programming:** Python, SQL, R  
