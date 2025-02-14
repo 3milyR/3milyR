@@ -30,6 +30,6 @@ I'm an analytics professional, strategist, and problem-solver with a background 
 - **Business Analytics:** Forecasting, Data Visualization, Optimization  
 
 ## 📫 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/emilyrupp)  
-- [Personal Website](https://emilyrupp.work)  
-- [Tableau Public](https://public.tableau.com/app/profile/3milyr/vizzes)  
+- Find me on [LinkedIn](https://linkedin.com/in/emilyrupp)  
+- Learn more about me @ [emilyrupp.work](https://emilyrupp.work)  
+- See some of my visualizations @ [Tableau Public](https://public.tableau.com/app/profile/3milyr/vizzes)  
