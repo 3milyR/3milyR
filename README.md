@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 ![Emily Rupp Banner](https://raw.githubusercontent.com/3milyR/3milyR/main/github_banner3.png)
 
 ## 🚀 About Me  
-
 I'm an operations analytics professional, strategist, and problem-solver with a background in SaaS, retail, and creative industries.   
 
 - 🎓 **MSBA** @ Carnegie Mellon (Graduating May 2025)  
 - 📊 Data & Business Analytics | Operations | Strategy  
-- 💡 Interested in Data Science and emerging technologies shaping the future — like Brain-Computer Interfaces, Autonomous Vehicles, the expanding role of Diamonds as Semiconductors, and Quantum Computing (probably). 
+- 💡 Interested in Data Science and emerging technologies shaping the future — like Brain-Computer Interfaces, Autonomous Vehicles, the expanding role of Diamonds as Semiconductors, and Quantum Computing (probably).
+- I really, really ❤️ dogs
+- I also ❤️ cats
 
 ## 🔧 Skills  
 - **Programming:** Python, SQL, R  
