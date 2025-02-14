@@ -22,12 +22,14 @@ I'm an operations analytics professional, strategist, and problem-solver with a 
 - 💡 Interested in Data Science and emerging technologies shaping the future — like Brain-Computer Interfaces, Autonomous Vehicles, the expanding role of Diamonds as Semiconductors, and Quantum Computing (probably).
 - I really, really ❤️ dogs
 - I also ❤️ cats
+  
 
 ## 🔧 Skills  
 - **Programming:** Python, SQL, R  
 - **Tools:** Tableau, Looker, VS Code, Jupyter Notebooks, R Studio, Google Sheets, Excel, Tableau Prep, Alteryx  
 - **Presentations:** Designing clear, engaging, and visually compelling presentations for both technical and non-technical audiences.  
-- **Business Analytics:** Forecasting, Data Visualization, Optimization  
+- **Business Analytics:** Forecasting, Data Visualization, Optimization
+  
 
 ## 📫 Connect With Me  
 - Find me on [LinkedIn](https://linkedin.com/in/emilyrupp)  
