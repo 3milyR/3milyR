@@ -26,7 +26,7 @@ I'm an operations analytics professional, strategist, and problem-solver with a 
 ## 🔧 Skills  
 - **Programming:** Python, SQL, R  
 - **Tools:** Tableau, Looker, VS Code, Jupyter Notebooks, R Studio, Google Sheets, Excel, Tableau Prep, Alteryx  
-- **Presentations:** Designing clear, engaging, and visually compelling presentations for both technical and non-technical audiences.  
+- **Presentations:** Designing clear, engaging, and visually compelling presentations for both technical and non-technical audiences with PowerPoint, Google Slides, and Canva. 
 - **Business Analytics:** Forecasting, Data Visualization, Optimization
   
 
