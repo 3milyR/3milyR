@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a programmer analyst and data engineer, strategist, and problem-solver for higher education.
 
 - 🎓 **MSBA** @ Carnegie Mellon 2025
-- - 🌵 Institutional Research at Copper Mountain College 
+- 🌵 Institutional Research at Copper Mountain College 
 - 📊 Data Analytics | Automation | Workflow Optimization
 - 💡 I love learning about emerging technologies that could shape the future — like Brain-Computer Interfaces, Autonomous Vehicles, Diamonds Wafer Semiconductors, and Quantum Computing.
   
