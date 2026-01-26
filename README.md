@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Emily Rupp Banner](https://raw.githubusercontent.com/3milyR/3milyR/main/github_banner3.png)
 
 ## 🚀 About Me  
-I'm a programmer analyst and data engineer for higher education. 
+I'm a programmer analyst and data engineer for higher education.  
 I help institutions create and implement strategies to put their data to work quickly and efficiently.
 
 - 🎓 **MSBA** @ Carnegie Mellon 2025
