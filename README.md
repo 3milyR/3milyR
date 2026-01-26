@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 ![Emily Rupp Banner](https://raw.githubusercontent.com/3milyR/3milyR/main/github_banner3.png)
 
 ## 🚀 About Me  
-I'm an operations analytics professional, strategist, and problem-solver with a background in SaaS, retail, and creative industries.   
+I'm a programmer analyst and data engineer, strategist, and problem-solver for higher education.
 
-- 🎓 **MSBA** @ Carnegie Mellon (Graduating May 2025)  
-- 📊 Data & Business Analytics | Operations | Strategy  
-- 💡 Interested in Data Science and emerging technologies shaping the future — like Brain-Computer Interfaces, Autonomous Vehicles, the expanding role of Diamonds as Semiconductors, and Quantum Computing (probably).
-- I really, really ❤️ dogs (cats too!)
+- 🎓 **MSBA** @ Carnegie Mellon 2025
+- 📊 Data Analytics | Automation | Workflow Optimization  
+- 💡 I love learning about emerging technologies shaping the future — like Brain-Computer Interfaces, Autonomous Vehicles, Diamonds Wafer Semiconductors, and Quantum Computing.
   
 
 ## 🔧 Skills  
-- **Programming:** Python, SQL, R  
-- **Tools:** Tableau, Looker, VS Code, Jupyter Notebooks, R Studio, Google Sheets, Excel, Tableau Prep, Alteryx  
-- **Presentations:** Designing clear, engaging, and visually compelling presentations for both technical and non-technical audiences using PowerPoint, Google Slides, Adobe and Canva. 
-- **Business Analytics:** Forecasting, Data Visualization, Optimization
+- **Programming:** Python, SQL, R
+- **Automating**: Reports, dashboards, calculations and processes
+- **Data Engineering:** Building and documenting pipelines for maximum efficiency
+- **Visualization Tools:** Tableau, Power BI, Looker, Python/Jupyter Notebooks, R Studio
+- **Presentations:** Designing clear, engaging presentations for both technical and non-technical audiences using PowerPoint, Google Slides, Adobe and Canva. 
+
   
 
 ## 📫 Connect With Me  
