@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm an institutional research data engineer for higher education.  
 I help institutions create and implement strategies to put their data to work quickly and efficiently.
 
-- 🎓 **MSBA** @ Carnegie Mellon 2025
 - 💾 Datura Technologies | Founder & Lead Developer | [datura.tech](datura.tech)
 - 🌵 Institutional Research at Copper Mountain College
+- 🎓 **MSBA** @ Carnegie Mellon 2025
 - 💡 Sharing new technologies with higher ed professionals at [thefuturesofar.com](https://www.thefuturesofar.com)
 - 📊 Data Analytics | Automation | Workflow Optimization
   
