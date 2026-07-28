@@ -19,7 +19,7 @@ I'm an institutional research data engineer for higher education.
 I help institutions create and implement strategies to put their data to work quickly and efficiently.
 
 - 🎓 **MSBA** @ Carnegie Mellon 2025
-- 💾 Datura Technologies | Founder & Lead Developer | ([[[https://www,\datura.tech](datura.tech))]
+- 💾 Datura Technologies | Founder & Lead Developer | ([[[datura.tech](datura.tech))]
 - 🌵 Institutional Research at Copper Mountain College 
 - 📊 Data Analytics | Automation | Workflow Optimization
 - 💡 I love learning about emerging technologies that could shape the future — like Brain-Computer Interfaces, Autonomous Vehicles, Diamonds Wafer Semiconductors, and Quantum Computing.
