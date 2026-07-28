@@ -36,5 +36,4 @@ I help institutions create and implement strategies to put their data to work qu
 
 ## 📫 Connect With Me
 - Find me on [LinkedIn](https://linkedin.com/in/emilyrupp)  
-- Learn more about my work on my website [emilyrupp.consulting](https://emilyrupp.consulting)
 - YouTube @thefuturesofar
