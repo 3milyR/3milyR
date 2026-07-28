@@ -20,9 +20,9 @@ I help institutions create and implement strategies to put their data to work qu
 
 - 🎓 **MSBA** @ Carnegie Mellon 2025
 - 💾 Datura Technologies | Founder & Lead Developer | [datura.tech](datura.tech)
-- 🌵 Institutional Research at Copper Mountain College 
+- 🌵 Institutional Research at Copper Mountain College
+- 💡 Sharing new technologies with higher ed professionals at [thefuturesofar.com](https://www.thefuturesofar.com)
 - 📊 Data Analytics | Automation | Workflow Optimization
-- 💡 I love learning about emerging technologies that could shape the future — like Brain-Computer Interfaces, Autonomous Vehicles, Diamonds Wafer Semiconductors, and Quantum Computing.
   
 
 ## 🔧 Skills  
@@ -36,4 +36,5 @@ I help institutions create and implement strategies to put their data to work qu
 
 ## 📫 Connect With Me
 - Find me on [LinkedIn](https://linkedin.com/in/emilyrupp)  
-- Learn more about my work on my website [emilyrupp.consulting](https://emilyrupp.consulting)  
+- Learn more about my work on my website [emilyrupp.consulting](https://emilyrupp.consulting)
+- YouTube @thefuturesofar
