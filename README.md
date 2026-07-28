@@ -20,9 +20,9 @@ I help institutions create and implement strategies to put their data to work qu
 
 - 💾 Datura Technologies | Founder & Lead Developer | [datura.tech](datura.tech)
 - 🌵 Institutional Research at Copper Mountain College
-- 🎓 **MSBA** @ Carnegie Mellon 2025
 - 💡 Sharing new technologies with higher ed professionals at [thefuturesofar.com](https://www.thefuturesofar.com)
 - 📊 Data Analytics | Automation | Workflow Optimization
+- 🎓 **MSBA** @ Carnegie Mellon 2025
   
 
 ## 🔧 Skills  
